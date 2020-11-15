@@ -1,0 +1,11 @@
+---
+title: "Intro to Linear Regression"
+author: "Kirsten Hodgson"
+date: "11/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
